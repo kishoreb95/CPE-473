@@ -1,0 +1,3 @@
+/home/kishkishftw/Downloads/cpe473/Program1/raycast/build/CMakeFiles/rebuild_cache.dir
+/home/kishkishftw/Downloads/cpe473/Program1/raycast/build/CMakeFiles/edit_cache.dir
+/home/kishkishftw/Downloads/cpe473/Program1/raycast/build/CMakeFiles/raytrace.dir

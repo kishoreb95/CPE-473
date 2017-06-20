@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++0x -g -Wall -pedantic  -rdynamic CMakeFiles/raytrace.dir/src/RayTrace.cpp.o CMakeFiles/raytrace.dir/src/main.cpp.o  -o raytrace 
